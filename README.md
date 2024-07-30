@@ -2,18 +2,34 @@
 developed a responsive website clone for SpaceX, a private aerospace manufacturer and space transport services company, utilizing the tech stack HTML, CSS and Javascript.
 
 # Features
-Responsive design for desktop and mobile devices
-Animated sections and scrolling effects
-Interactive menu and navigation
-Background images and videos for a immersive experience
-Custom typography and font styles
-Animated buttons and hover effects
-Scroll arrow and bounce animation
-Custom footer design and animation
-Hamburger menu and overlay animation
-Mobile menu and navigation
-Inner pages with custom designs and animations
-Stats section with animated numbers and custom design
+HTML Features:
+
+1. Background images and videos for an immersive experience
+2. Custom footer design and animation (structure)
+3. Hamburger menu and overlay animation (structure)
+4. Inner pages with custom designs and animations (structure)
+5. Mobile menu and navigation (structure)
+6. Stats section with animated numbers and custom design (structure)
+   
+CSS Features:
+
+1. Responsive design for desktop and mobile devices
+2. Custom typography and font styles
+3. Animated buttons and hover effects
+4. Scroll arrow and bounce animation
+5. Custom footer design and animation (styling)
+6. Hamburger menu and overlay animation (styling)
+7. Mobile menu and navigation (styling)
+   
+JS Features:
+
+1. Animated sections and scrolling effects
+2. Interactive menu and navigation
+3. Animated buttons and hover effects (dynamic effects)
+4. Scroll arrow and bounce animation (dynamic effects)
+5. Stats section with animated numbers and custom design (dynamic effects)
+6. Hamburger menu and overlay animation (dynamic effects)
+7. Mobile menu and navigation (dynamic effects)
 
 # Technologies Used
 HTML5
