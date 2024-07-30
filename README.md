@@ -32,10 +32,10 @@ JS Features:
 7. Mobile menu and navigation (dynamic effects)
 
 # Technologies Used
-HTML5
-CSS3 (with CSS animations and transitions)
-JavaScript (with ES6 syntax)
-Google Fonts (for typography)
+1. HTML5
+2. CSS3 (with CSS animations and transitions)
+3. JavaScript (with ES6 syntax)
+4. Google Fonts (for typography)
 
 # Installation
 To install and run the website locally, follow these steps:
