@@ -40,7 +40,7 @@ JS Features:
 # Installation
 To install and run the website locally, follow these steps:
 
-Clone the repository using Git: git clone https://github.com/your-username/spacex-website-clone.git
+Clone the repository using Git: git clone https://github.com/your-username/Space-X-Clone.git
 Open the cloned repository in your code editor or IDE
 Open the index.html file in your web browser to view the website
 Usage
